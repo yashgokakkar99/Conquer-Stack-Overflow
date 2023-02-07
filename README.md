@@ -1,2 +1,2 @@
 # Conquer-Stack-Overflow
-Interactive website
+Interactive website by a group
