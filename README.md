@@ -1,2 +1,2 @@
 # Conquer-Stack-Overflow
-Interactive website by a group
+Interactive website by a Ashutosh,Yash
