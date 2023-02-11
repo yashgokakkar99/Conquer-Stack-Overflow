@@ -90,6 +90,11 @@ header .display-menu{
 		transform: translateY(-100vh);
 	}
 
+  header .display-menu{
+    display: flex;
+    flex-direction: column;
+  }
+
   .responsive_nav {
 		transform: none;
 	}
