@@ -58,6 +58,30 @@ header .display-menu{
   align-items: center;
 }
 
+.display-menu input[type=text] {
+  float: right;
+  padding: 6px;
+  border-radius: 0.6rem;
+  margin-top: 6px;
+  margin-right: 16px;
+  font-size: 19px;
+}
+
+.display-menu button {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #f8f5f5;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.display-menu button:hover {
+  background: #baa2a2;
+}
+
 .nav-close-btn{
   visibility: hidden;
 }
