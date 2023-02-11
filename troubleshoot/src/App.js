@@ -6,7 +6,7 @@ import Projects from "./Projects";
 
 function App() {
   return (
-    <Router>
+  <Router>
   <Navbar/>
     <Switch>
       <Route exact path='/' element={<Home/>}/>
