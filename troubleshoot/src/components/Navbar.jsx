@@ -29,9 +29,9 @@ const Navbar = () => {
             Projects
           </Link>
           <input type="text" placeholder="Search.." name='search'></input>
-          <button type="submit">Submit</button>
+          <button type="submit" value="Search">Search</button>
 
-          <button type="submit">Connect</button>
+          <button type="submit" value="Log in">Log in</button>
 
         </div>
         <button className="nav-btn nav-close-btn" onClick={showNavbar}>
