@@ -46,7 +46,7 @@ header .display-menu{
 }
 
 .display-menu .menu{
-  padding: 15px 15px;
+  padding: 10px;
   text-decoration: none;
   color: #333;
   width: 60px;
@@ -61,7 +61,7 @@ header .display-menu{
 .display-menu input[type=text] {
   float: right;
   padding: 6px;
-  border-radius: 0.6rem;
+  /* border-radius: 0.6rem; */
   margin-top: 6px;
   margin-right: 16px;
   font-size: 19px;
@@ -76,10 +76,15 @@ header .display-menu{
   font-size: 17px;
   border: none;
   cursor: pointer;
+  width: 100px;
+  height: 40px;
+  font-weight: 500;
 }
 
 .display-menu button:hover {
-  background: #baa2a2;
+  background: #0F8C85;
+  color: white;
+  font-weight: 600;
 }
 
 .nav-close-btn{
